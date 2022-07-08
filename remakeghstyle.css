@@ -1,80 +1,79 @@
-h1{
-    text-align: center;
-    font-size:x-large
-}
 
-svg{
+            h1{
+                text-align: center;
+                font-size:x-large
+            }
 
-    display: block;
-    margin:auto;
-    width: 50px;
-    height: 50px;
-    padding:10px;
+            svg{
 
-}
+                display: block;
+                margin:auto;
+                width: 50px;
+                height: 50px;
+                padding:10px;
 
-body{
+            }
 
-    font-family: -Arial;
-    font-size: 14px;
-    line-height: 1.5;
-    color: #24292f;
-    background-color: #ffffff;
+            body{
 
-}
+                font-family: -Arial;
+                font-size: 14px;
+                line-height: 1.5;
+                color: #24292f;
+                background-color: #ffffff;
 
-.SignIn{
+            }
 
-    margin:0px auto;
-    background-color:#eaeef2;
-    border: 2px solid #eaeef2;
-    padding: 20px;
-    height: 155px;
-    width: 235px;
-    border-radius: 5px;
+            .SignIn{
 
-}
+                margin:0px auto;
+                background-color:#eaeef2;
+                border: 2px solid #eaeef2;
+                padding: 20px;
+                height: 155px;
+                width: 235px;
+                border-radius: 5px;
 
-input{
+            }
 
-    border-radius: 5px;
-    border: 1px solid;
-    padding:5px;
+            input{
 
-}
+                border-radius: 5px;
+                border: 1px solid;
+                padding:5px;
 
-input[type=submit]{
+            }
 
-    background-color:#2da44e;
-    width: 235px;
-    padding: 3px;
-    border-radius: 5px;
+            input[type=submit]{
 
-}
+                background-color:#2da44e;
+                width: 235px;
+                padding: 3px;
+                border-radius: 5px;
 
-p{
-    border-style: solid;
-    border-color: #eaeef2;
-    border-width: .5px;
-    width: 250px;
-    margin:auto;
-    padding: 15px;
-    border-radius: 5px;
+            }
 
-}
+            p{
+                border-style: solid;
+                border-color: #eaeef2;
+                border-width: .5px;
+                width: 250px;
+                margin:auto;
+                padding: 15px;
+                border-radius: 5px;
 
-.SignUp{
-    
-    text-align:center;
+            }
 
-}
+            .SignUp{
+                
+                text-align:center;
 
-footer{
+            }
 
-    text-align: center;
-    padding: 75px;
-   
-}
+            footer{
 
+                text-align: center;
+                padding: 75px;
+               
+            }
 
-</style>
